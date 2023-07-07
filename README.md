@@ -1,3 +1,6 @@
+# UAS LAB PBK
+NAMA : ALFI SYAHRIN SIREGAR
+NPM  : 213510811
 # uas
 
 ## Project setup
